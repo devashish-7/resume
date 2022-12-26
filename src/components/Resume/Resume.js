@@ -57,7 +57,7 @@ function Resume() {
             />
             <Resumecontent
               title="10TH BOARD [Jay Sankar School,Rajasthan] "
-              date="20013 - 2014"
+              date="2013 - 2014"
               content={["Precentage: 69.50%"]}
             />
             <h3 className="resume-title">Ranks and Achivements</h3>
