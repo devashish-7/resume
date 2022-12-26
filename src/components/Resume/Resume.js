@@ -47,8 +47,8 @@ function Resume() {
             <h3 className="resume-title">Education</h3>
             <Resumecontent
               title="LOVELY PROFESSIONAL UNIVERSITY [Phagwara, Punjab] "
-              date="2021 - Present"
-              content={[`CGPA: 7.87 (Till 5th Sem)`]}
+              date="2022"
+              content={[`CGPA: 8.01`]}
             />
             <Resumecontent
               title="12TH BOARD [Veer Teja School,Rajasthan]"
