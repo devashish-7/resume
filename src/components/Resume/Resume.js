@@ -48,7 +48,7 @@ function Resume() {
             <Resumecontent
               title="LOVELY PROFESSIONAL UNIVERSITY [Phagwara, Punjab] "
               date="2022"
-              content={[`CGPA: 8.01`]}
+              content={[` CGPA: 8.01 `]}
             />
             <Resumecontent
               title="12TH BOARD [Veer Teja School,Rajasthan]"
