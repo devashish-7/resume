@@ -1,0 +1,82 @@
+/* Clean resume layout */
+.resume {
+  padding-top: 20px;
+}
+
+/* Titles */
+.section-title {
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 5px;
+}
+
+/* Timeline */
+.timeline {
+  border-left: 2px solid #ccc;
+  padding-left: 20px;
+}
+
+.timeline-item {
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.timeline-dot {
+  width: 10px;
+  height: 10px;
+  background: #000;
+  border-radius: 50%;
+  position: absolute;
+  left: -26px;
+  top: 5px;
+}
+
+/* Text styling */
+.timeline-item h4 {
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+.timeline-item span {
+  font-size: 13px;
+  color: gray;
+}
+
+.timeline-item p {
+  margin-bottom: 5px;
+}
+
+/* Remove bullets */
+.resume-wrapper ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.resume-wrapper ul li {
+  margin-bottom: 4px;
+  font-size: 14px;
+}
+
+/* Skills */
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+}
+
+.skill {
+  border: 1px solid #ddd;
+  padding: 8px;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+/* Education */
+.education-card {
+  border-left: 3px solid #000;
+  padding-left: 10px;
+  margin-bottom: 15px;
+}
