@@ -31,6 +31,7 @@ function AboutCard() {
           <p style={{ marginBlockEnd: 0, color: "rgb(155 126 172)" }}>
             "Your Are Never Too Old To Set Another Goal Or To Dream A New Dream"{" "}
           </p>
+          <br />
           <footer className="blockquote-footer">Devashish</footer>
         </blockquote>
       </Card.Body>

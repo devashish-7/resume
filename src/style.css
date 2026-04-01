@@ -737,3 +737,37 @@ html {
 
 /* new */
 
+.tech-category-heading {
+  font-size: 1.2em;
+  color: #c770f0;
+  margin: 20px 0 10px 0;
+  text-align: center;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.tech-icons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+  font-size: 3.5em;
+  transition: transform 0.3s ease;
+}
+
+.tech-icons:hover {
+  transform: scale(1.15);
+  color: #c770f0;
+}
+
+.tech-label {
+  font-size: 0.28em;
+  margin-top: 5px;
+  color: white;
+  text-align: center;
+  letter-spacing: 0.5px;
+}
+
+.tech-section {
+  padding: 20px 0;
+}

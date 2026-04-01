@@ -80,7 +80,7 @@ function Projects() {
         <BlogCard
           title="GCP Professional Cloud Architect"
           site="Google Cloud"
-          link="#"
+          link="https://www.credly.com/badges/1e5bfa5d-be1f-45ac-b7e5-bdff027e904d/public_url"
         />
       </Col>
 
@@ -88,7 +88,7 @@ function Projects() {
         <BlogCard
           title="GCP Professional DevOps Engineer"
           site="Google Cloud"
-          link="#"
+          link="https://www.credly.com/badges/f4e47cc2-2695-4254-a60d-4598d6929fc6/public_url"
         />
       </Col>
 
@@ -96,15 +96,15 @@ function Projects() {
         <BlogCard
           title="GCP Professional Cloud Security Engineer"
           site="Google Cloud"
-          link="#"
+          link="https://www.credly.com/badges/1627eccd-bf53-4ddb-a053-5e09b1e1ef94/public_url"
         />
       </Col>
 
       <Col md={4} className="blog-card">
         <BlogCard
-          title="GCP Associate Cloud Engineer"
+          title="Associate Cloud Engineer Certification"
           site="Google Cloud"
-          link="#"
+          link="https://www.credly.com/badges/aa931694-71f1-485c-af5b-24afeb37ec91/public_url"
         />
       </Col>
 
@@ -112,7 +112,15 @@ function Projects() {
         <BlogCard
           title="AWS Certified Data Engineer – Associate"
           site="Amazon Web Services"
-          link="#"
+          link="https://www.credly.com/badges/42d5c4d6-8b7d-44c0-901e-ef7ef97701f3/public_url"
+        />
+      </Col>
+
+      <Col md={4} className="blog-card">
+        <BlogCard
+          title="Professional Data Engineer Certification"
+          site="Google Cloud"
+          link="https://www.credly.com/badges/d65c2a56-d34f-4c64-b0e1-f6cdf1e100d0/public_url"
         />
       </Col>
 
