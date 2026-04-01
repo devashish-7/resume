@@ -2,12 +2,12 @@
   "name": "my-new-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://devashish-7.github.io/resume",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
     "@testing-library/react": "^16.3.2",
     "@testing-library/user-event": "^13.5.0",
-    "homepage": "https://devashish-7.github.io/resume",
     "axios": "^1.14.0",
     "bootstrap": "^5.3.8",
     "react": "^19.2.4",
