@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/resume/static/css/main.8ee49d9c.css",
-    "main.js": "/resume/static/js/main.7c888a1d.js",
+    "main.css": "/resume/static/css/main.6314ca3c.css",
+    "main.js": "/resume/static/js/main.c8946424.js",
     "static/js/453.5723cca9.chunk.js": "/resume/static/js/453.5723cca9.chunk.js",
     "static/media/DEVASHISH JANGID1.pdf": "/resume/static/media/DEVASHISH JANGID1.27524456185ebc396fec.pdf",
     "static/media/home-main.svg": "/resume/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
@@ -10,12 +10,12 @@
     "static/media/avatar.svg": "/resume/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
     "index.html": "/resume/index.html",
     "static/media/pre.svg": "/resume/static/media/pre.4410c5baaa673cc131da.svg",
-    "main.8ee49d9c.css.map": "/resume/static/css/main.8ee49d9c.css.map",
-    "main.7c888a1d.js.map": "/resume/static/js/main.7c888a1d.js.map",
+    "main.6314ca3c.css.map": "/resume/static/css/main.6314ca3c.css.map",
+    "main.c8946424.js.map": "/resume/static/js/main.c8946424.js.map",
     "453.5723cca9.chunk.js.map": "/resume/static/js/453.5723cca9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ee49d9c.css",
-    "static/js/main.7c888a1d.js"
+    "static/css/main.6314ca3c.css",
+    "static/js/main.c8946424.js"
   ]
 }
